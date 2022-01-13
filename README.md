@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineer based on Internet</h3>
 
 
-- 👨🏼‍🎓  I'm studding Computer Science focusing on Machine Learning
+- 👨🏼‍🎓  Computer Science Graduate
 - 👨🏻‍💻 Software Engineer
 - 💁🏻‍♂️ Failed in a startup project aiming at Fashion & Protection, check it out here on [MaskWithUs](https://maskwith.us) - I learn from my failures
 - ➕➖✖️➗ Practising algorithms is a long-term investment, so I do it [everyday](https://github.com/alibk95/CodingChallenges) 
