@@ -3,9 +3,9 @@
 
  ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming&theme=dracula&animation=default&layout=zues&font=Redressed)
 
-
+I learn every day!
 - 👨🏼‍🎓  Computer Science Graduate
-- 👨🏻‍💻 Software Engineer
+- 👨🏻‍💻 Software Engineer 
 - 💁🏻‍♂️ Failed in a startup project aiming at Fashion & Protection, check it out here on [MaskWithUs](https://maskwith.us) - I learn from my failures
 - ➕➖✖️➗ Practising algorithms is a long-term investment, so I do it [everyday](https://github.com/alibk95/CodingChallenges) 
 - 🏃🏻 I'm not always sitting by my computer, like I run often times. 
