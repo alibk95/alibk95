@@ -2,8 +2,7 @@
 <h3 align="center">A Software Engineer based on Internet</h3>
 
 
- ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming&theme=dracula&animation=default&layout=zues&font=Redressed)
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 I learn everyday!
 - 👨🏼‍🎓  Computer Science Graduate
