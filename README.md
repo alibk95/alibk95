@@ -5,7 +5,7 @@
 
 I learn everyday!
 - 👨🏼‍🎓  Computer Science Graduate
-- 👨🏻‍💻 I want to become a builder!
+- 👨🏻‍💻 builder!
 - 💁🏻‍♂️ Obsessed with Block Chain Technology
 - ➕➖✖️➗ Practising algorithms is a long-term investment, so I do it [everyday](https://github.com/alibk95/CodingChallenges) 
 - 🏃🏻 I'm not always sitting by my computer, I love bouldering.  
